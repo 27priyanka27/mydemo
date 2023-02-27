@@ -1,0 +1,6 @@
+driver.findelement.by.id;
+driver.findelement.by.name;
+driver.findelement.by.class;
+driver.findelement.by.xpath;
+driver.findelement.by.css;
+driver.findelement.by.tagname;
